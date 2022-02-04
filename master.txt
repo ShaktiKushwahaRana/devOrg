@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git status
 Master file
+=======
+Hello name is rana Shakti
+>>>>>>> double
