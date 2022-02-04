@@ -1,4 +1,8 @@
 this is rana Shakti
 Shakti Is boss
+<<<<<<< HEAD
 
 dev atrigit
+=======
+ladla branch
+>>>>>>> double
